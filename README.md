@@ -1,4 +1,4 @@
-# Projeto Flex Turismo
+# Projeto Flex Turismo👩🏾‍💻
 
 Este é um repositório de estudo sobre CSS Flexbox aplicado a um site responsivo.
 
